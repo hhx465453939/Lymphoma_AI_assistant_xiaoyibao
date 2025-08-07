@@ -36,18 +36,18 @@
 ## 1. 烷化剂类
 - [x] 环磷酰胺 (Cyclophosphamide)
 - [x] 异环磷酰胺 (Ifosfamide)
-- [ ] 苯达莫司汀 (Bendamustine)
+- [x] 苯达莫司汀 (Bendamustine)
 
 ## 2. 蒽环类抗生素
 - [x] 脂质体多柔比星 (Liposomal Doxorubicin/Doxil)
 
 ## 3. 抗代谢药物
-- [ ] 甲氨蝶呤 (Methotrexate)
+- [x] 甲氨蝶呤 (Methotrexate)
 - [ ] 阿糖胞苷 (Cytarabine)
 
 ## 4. 植物碱类
-- [ ] 长春新碱 (Vincristine)
-- [ ] 依托泊苷 (Etoposide)
+- [x] 长春新碱 (Vincristine)
+- [x] 依托泊苷 (Etoposide)
 
 ## 5. 铂类化合物
 - [x] 卡铂 (Carboplatin)
