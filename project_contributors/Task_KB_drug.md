@@ -43,7 +43,7 @@
 
 ## 3. 抗代谢药物
 - [x] 甲氨蝶呤 (Methotrexate)
-- [ ] 阿糖胞苷 (Cytarabine)
+- [x] 阿糖胞苷 (Cytarabine)
 
 ## 4. 植物碱类
 - [x] 长春新碱 (Vincristine)
@@ -65,32 +65,32 @@
 - [x] 奥布替尼 (Orelabrutinib)
 
 ## 9. BCL-2抑制剂
-- [ ] 维奈克拉 (Venetoclax)
+- [x] 维奈克拉 (Venetoclax)
 
 ## 10. 抗体药物偶联物(ADC)
 - [ ] 维布妥昔单抗 (Brentuximab Vedotin)
 
 ## 11. 免疫调节剂
-- [ ] 来那度胺 (Lenalidomide)
+- [x] 来那度胺 (Lenalidomide)
 
 ## 12. 蛋白酶体抑制剂
-- [ ] 硼替佐米 (Bortezomib)
+- [x] 硼替佐米 (Bortezomib)
 
 ## 13. PI3K抑制剂
-- [ ] 度维利塞 (Duvelisib)
-- [ ] 林普利塞 (Linperlisib)
+- [x] 度维利塞 (Duvelisib)
+- [x] 林普利塞 (Linperlisib)
 
 ## 14. JAK抑制剂
-- [ ] 芦可替尼 (Ruxolitinib)
+- [x] 芦可替尼 (Ruxolitinib)
 
 ## 15. ALK抑制剂
-- [ ] 阿来替尼 (Alectinib)
+- [x] 阿来替尼 (Alectinib)
 
 ## 16. HDAC抑制剂
-- [ ] 西达本胺 (Chidamide)
+- [x] 西达本胺 (Chidamide)
 
 ## 17. 其他抗肿瘤药物
-- [ ] 盐酸米托蒽醌脂质体
+- [x] 盐酸米托蒽醌脂质体
 
 ## 18. 造血刺激因子
 - [ ] 重组人粒细胞集落刺激因子 (G-CSF)
