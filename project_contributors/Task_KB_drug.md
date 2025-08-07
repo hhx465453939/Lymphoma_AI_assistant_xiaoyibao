@@ -68,7 +68,7 @@
 - [x] 维奈克拉 (Venetoclax)
 
 ## 10. 抗体药物偶联物(ADC)
-- [ ] 维布妥昔单抗 (Brentuximab Vedotin)
+- [x] 维布妥昔单抗 (Brentuximab Vedotin)
 
 ## 11. 免疫调节剂
 - [x] 来那度胺 (Lenalidomide)
