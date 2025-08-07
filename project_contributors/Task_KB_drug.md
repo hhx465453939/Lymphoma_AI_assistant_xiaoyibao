@@ -59,10 +59,10 @@
 - [ ] 奥妥珠单抗 (Obinutuzumab)
 
 ## 8. BTK抑制剂
-- [ ] 伊布替尼 (Ibrutinib)
-- [ ] 阿可替尼 (Acalabrutinib)
-- [ ] 泽布替尼 (Zanubrutinib)
-- [ ] 奥布替尼 (Orelabrutinib)
+- [x] 伊布替尼 (Ibrutinib)
+- [x] 阿可替尼 (Acalabrutinib)
+- [x] 泽布替尼 (Zanubrutinib)
+- [x] 奥布替尼 (Orelabrutinib)
 
 ## 9. BCL-2抑制剂
 - [ ] 维奈克拉 (Venetoclax)
