@@ -34,12 +34,12 @@
 [x] 多柔比星 (Doxorubicin/阿霉素)
 
 ## 1. 烷化剂类
-[ ] 环磷酰胺 (Cyclophosphamide)
-[ ] 异环磷酰胺 (Ifosfamide)
+[x] 环磷酰胺 (Cyclophosphamide)
+[x] 异环磷酰胺 (Ifosfamide)
 [ ] 苯达莫司汀 (Bendamustine)
 
 ## 2. 蒽环类抗生素
-[ ] 脂质体多柔比星 (Liposomal Doxorubicin/Doxil)
+[x] 脂质体多柔比星 (Liposomal Doxorubicin/Doxil)
 
 ## 3. 抗代谢药物
 [ ] 甲氨蝶呤 (Methotrexate)
@@ -50,7 +50,7 @@
 [ ] 依托泊苷 (Etoposide)
 
 ## 5. 铂类化合物
-[ ] 卡铂 (Carboplatin)
+[x] 卡铂 (Carboplatin)
 
 ## 6. 激素类
 [ ] 泼尼松 (Prednisone)
