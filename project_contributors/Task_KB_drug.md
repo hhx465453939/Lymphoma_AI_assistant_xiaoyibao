@@ -53,10 +53,10 @@
 - [x] 卡铂 (Carboplatin)
 
 ## 6. 激素类
-- [ ] 泼尼松 (Prednisone)
+- [x] 泼尼松 (Prednisone)
 
 ## 7. CD20单克隆抗体
-- [ ] 奥妥珠单抗 (Obinutuzumab)
+- [x] 奥妥珠单抗 (Obinutuzumab)
 
 ## 8. BTK抑制剂
 - [x] 伊布替尼 (Ibrutinib)
