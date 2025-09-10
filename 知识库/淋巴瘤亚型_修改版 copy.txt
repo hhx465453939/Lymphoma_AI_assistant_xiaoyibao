@@ -1,0 +1,70 @@
+### 最新淋巴瘤分类概览（根据图片信息完善版）
+
+| 分类/亚型（中文）                 | 英文全称 / 子类型                             | 英文缩写 | 恶性程度分级 | 科普风格特点一句话介绍                                                                     | 建议科室      |
+| :-------------------------------- | :-------------------------------------------- | :------- | :----------- | :----------------------------------------------------------------------------------------- | :------------ |
+| **1. 霍奇金淋巴瘤 (HL)**         | **Hodgkin Lymphoma**                          | **HL**   |              | 独特细胞作祟的淋巴瘤，通常预后较好，但种类繁多。                                           | 淋巴瘤科/血液内科 |
+| 1.1. 经典霍奇金淋巴瘤            | Classical Hodgkin Lymphoma                    | cHL      |              | 霍奇金淋巴瘤的主力军，占95%，诊断常靠R-S细胞，对化疗敏感。                                     | 淋巴瘤科/血液内科 |
+| 1.1.1. 结节硬化型                | Nodular Sclerosis Classical Hodgkin Lymphoma  | NSCHL    | 中/高        | 最常见的cHL，像"打结的疤痕"，多见于年轻人，预后中等，治愈率高。                               | 淋巴瘤科/血液内科 |
+| 1.1.2. 混合细胞型                | Mixed-Cellularity Classical Hodgkin Lymphoma  | MCCHL    | 中/高        | 常见于儿童老人或HIV感染者，与EBV相关，预后中等，B症状更常见。                               | 淋巴瘤科/血液内科 |
+| 1.1.3. 富于淋巴细胞型            | Lymphocyte-Rich Classical Hodgkin Lymphoma    | LRCHL    | 低/中        | 淋巴细胞多，R-S细胞少见，早期发现多，预后最好。                                              | 淋巴瘤科/血液内科 |
+| 1.1.4. 淋巴细胞消减型            | Lymphocyte-Depleted Classical Hodgkin Lymphoma| LDCHL    | 高           | 最罕见且侵袭性强，多见于老年或HIV感染者，常晚期才被发现，预后较差。                          | 淋巴瘤科/血液内科 |
+| 1.2. 结节性淋巴细胞为主型霍奇金淋巴瘤 (NLPHL) | Nodular Lymphocyte-Predominant Hodgkin Lymphoma | NLPHL    | 低           | 曾是HL的独立大类，惰性特征，可多年复发，但治愈率高，现已归类为独立的B细胞淋巴瘤（NLPBL）。 | 淋巴瘤科/血液内科 |
+| **2. 非霍奇金淋巴瘤 (NHL)**      | **Non-Hodgkin Lymphoma**                      | **NHL**  |              | 比HL更常见的淋巴瘤大家族，细胞来源复杂多样，从惰性到凶险都有。                               | 淋巴瘤科/血液内科 |
+| 2.1. B细胞淋巴瘤                 | B-cell Lymphomas                              | BCL      |              | 源于B淋巴细胞的淋巴瘤，种类最多，包括侵袭性强者和进展缓慢者。                               | 淋巴瘤科/血液内科 |
+| 2.1.1. 成熟B细胞肿瘤             | Mature B-cell Neoplasms                       |          |              |                                                                                            | 淋巴瘤科/血液内科 |
+| 2.1.1.1. 弥漫大B细胞淋巴瘤       | Diffuse Large B-cell Lymphoma                 | DLBCL    | 高           | 最常见的侵袭性淋巴瘤，细胞大且扩散快，很多患者可被治愈，需立即治疗。                         | 淋巴瘤科/血液内科 |
+| 2.1.1.1.1. DLBCL NOS             | Diffuse Large B-cell Lymphoma, Not Otherwise Specified | DLBCL NOS| 高           | 最常见NHL类型，需立即治疗。                                                                | 淋巴瘤科/血液内科 |
+| 2.1.1.1.2. 原发性纵膈大B细胞淋巴瘤 | Primary Mediastinal Large B-cell Lymphoma     | PMBCL    | 高           | 好发于年轻女性，侵袭性强。                                                                 | 淋巴瘤科/血液内科 |
+| 2.1.1.1.3. 高级别B细胞淋巴瘤     | High-Grade B-cell Lymphoma (HGBL)             | HGBL     | 高           | 治疗应答率低，预后差。                                                                     | 淋巴瘤科/血液内科 |
+| 2.1.1.1.4. EBV DLBCL NOS         | EBV-positive DLBCL, Not Otherwise Specified   |          | 高           | 与EBV感染相关，预后差。                                                                    | 淋巴瘤科/血液内科 |
+| 2.1.1.2. 滤泡性淋巴瘤            | Follicular Lymphoma                           | FL       | 低           | 通常生长缓慢的"惰性"淋巴瘤，容易复发但可长期带病生存，有时会恶变。                           | 淋巴瘤科/血液内科 |
+| 2.1.1.2.1. 滤泡性淋巴瘤 I-IIIA级 | Follicular Lymphoma Grade 1-IIIA              | FL       | 低           | 中度侵袭性。                                                                               | 淋巴瘤科/血液内科 |
+| 2.1.1.2.2. 滤泡性淋巴瘤 IIIB级   | Follicular Lymphoma Grade IIIB                | FL       | 高           | 侵袭性强，类似DLBCL治疗。                                                                  | 淋巴瘤科/血液内科 |
+| 2.1.1.3. 套细胞淋巴瘤            | Mantle Cell Lymphoma                          | MCL      | 中/高        | 兼具惰性与侵袭性特点的B细胞淋巴瘤，预后不一，通常侵袭性，可生存3-5年。                       | 淋巴瘤科/血液内科 |
+| 2.1.1.3.1. 经典型                | Classical                                     | MCL      | 中/高        | 侵袭性强，可生存3-5年。                                                                    | 淋巴瘤科/血液内科 |
+| 2.1.1.3.2. 惰性型                | Indolent                                      | MCL      | 低           | 预后较好。                                                                                 | 淋巴瘤科/血液内科 |
+| 2.1.1.4. 慢性淋巴细胞白血病/小淋巴细胞淋巴瘤 | Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma | CLL/SLL  | 低           | 血液和淋巴结中缓慢增殖的白细胞疾病，本质上是同一种惰性B细胞疾病。                             | 淋巴瘤科/血液内科 |
+| 2.1.1.5. 边缘区淋巴瘤            | Marginal Zone Lymphoma                        | MZL      | 低           | 进展缓慢，常与慢性炎症或感染相关，可分为结外、脾脏和淋巴结三种，通常惰性。                     | 淋巴瘤科/血液内科 |
+| 2.1.1.5.1. 结外边缘区淋巴瘤      | Extranodal Marginal Zone Lymphoma             | MALT     | 低           | 最常见，发生于黏膜相关淋巴组织。                                                           | 淋巴瘤科/血液内科 |
+| 2.1.1.5.2. 脾脏边缘区淋巴瘤      | Splenic Marginal Zone Lymphoma                | SMZL     | 低           | 慢性病程。                                                                                 | 淋巴瘤科/血液内科 |
+| 2.1.1.5.3. 淋巴结边缘区淋巴瘤    | Nodal Marginal Zone Lymphoma                  | NMZL     | 低           | 早期患者可行单纯手术或放疗，可能治愈，晚期患者中部分可以观察等待，不需要治疗。                 | 淋巴瘤科/血液内科 |
+| 2.1.1.6. 淋巴浆细胞淋巴瘤        | Lymphoplasmacytic Lymphoma                     | LPL      | 低           | 罕见B细胞病变，华氏巨球蛋白血症的主要基础。                                                  | 淋巴瘤科/血液内科 |
+| 2.1.1.7. 伯基特淋巴瘤            | Burkitt Lymphoma                              | BL       | 高           | 生长最快的淋巴瘤之一，常见于儿童，但也对化疗反应迅速，与EBV感染、生长快相关。                | 淋巴瘤科/血液内科 |
+| 2.1.1.8. HCL                     | Hairy Cell Leukemia                           | HCL      | 低           | 罕见B细胞白血病，可治愈。                                                                  | 淋巴瘤科/血液内科 |
+| 2.1.1.9. 浆细胞肿瘤              | Plasma Cell Neoplasms                         |          |              | 高度恶性，预后差。                                                                         | 淋巴瘤科/血液内科 |
+| 2.1.1.9.1. 多发性骨髓瘤          | Multiple Myeloma                              |          | 高           | 部分可治愈，进展缓慢。                                                                       | 淋巴瘤科/血液内科 |
+| 2.1.1.9.2. POEMS综合征           | POEMS Syndrome                                |          | 高           | 预后相对差，慢性病。                                                                         | 淋巴瘤科/血液内科 |
+| **2.2. T细胞和NK细胞淋巴瘤**     | **T-cell and NK-cell Lymphomas**              | **TCL/NKCL** |              | 源于T淋巴细胞或NK细胞的淋巴瘤，相对罕见，种类多且常具有侵袭性。                           | 淋巴瘤科/血液内科 |
+| 2.2.1. 成熟T/NK细胞肿瘤          | Mature T/NK-cell Neoplasms                    |          |              |                                                                                            | 淋巴瘤科/血液内科 |
+| 2.2.1.1. 外周T细胞淋巴瘤（非特指型） | Peripheral T-cell Lymphoma, Not Otherwise Specified | PTCL-NOS | 中           | T细胞淋巴瘤中一个"杂牌军"，指那些无法归类到其他特定T细胞淋巴瘤的类型，预后中等。             | 淋巴瘤科/血液内科 |
+| 2.2.1.2. 血管免疫母细胞性T细胞淋巴瘤 | Angioimmunoblastic T-cell Lymphoma            | AITL     | 中           | 伴随免疫异常和全身症状的T细胞淋巴瘤，发病急且进展快，中年发生，预后差。                       | 淋巴瘤科/血液内科 |
+| 2.2.1.3. 间变性大细胞淋巴瘤      | Anaplastic Large Cell Lymphoma                | ALCL     | 中           | 一种具有独特病理特征的大细胞淋巴瘤，根据ALK基因状态分型，中年发生，ALK+预后好。                  | 淋巴瘤科/血液内科 |
+| 2.2.1.3.1. ALK阳性ALCL           | ALK-Positive Anaplastic Large Cell Lymphoma   | ALK+ALCL | 中           | 预后较好。                                                                                 | 淋巴瘤科/血液内科 |
+| 2.2.1.3.2. ALK阴性ALCL           | ALK-Negative Anaplastic Large Cell Lymphoma   | ALK-ALCL | 高           | 预后差。                                                                                   | 淋巴瘤科/血液内科 |
+| 2.2.1.4. 结外NK/T细胞淋巴瘤      | Extranodal NK/T-cell Lymphoma                 | ENKTL    | 高           | 鼻型，与EBV感染相关，侵袭性强。                                                            | 淋巴瘤科/血液内科 |
+| 2.2.1.5. 肝脾T细胞淋巴瘤         | Hepatosplenic T-cell Lymphoma                 | HSTCL    | 高           | 罕见，与HIV-1相关，预后极差，常发生在儿童。                                                  | 淋巴瘤科/血液内科 |
+| 2.2.1.6. 肠病相关T细胞淋巴瘤     | Enteropathy-Associated T-cell Lymphoma        | EATL     | 高           | 与乳糜泻相关，预后差。                                                                     | 淋巴瘤科/血液内科 |
+| 2.2.1.6.1. I型（经典）           | Type I (Classical)                            |          | 高           | 侵袭性强，预后差。                                                                         | 淋巴瘤科/血液内科 |
+| 2.2.1.6.2. II型（单形性）        | Type II (Monomorphic)                         |          | 高           | 侵袭性强，预后差。                                                                         | 淋巴瘤科/血液内科 |
+| 2.2.1.7. 成人T细胞白血病/淋巴瘤  | Adult T-cell Leukemia/Lymphoma                | ATLL     | 高           | 与HTLV-1相关，预后差，中年发生，存活期<1年。                                                | 淋巴瘤科/血液内科 |
+| 2.2.1.7.1. 急性型                | Acute                                         |          | 高           | 侵袭性强，预后差，存活期<1年。                                                              | 淋巴瘤科/血液内科 |
+| 2.2.1.7.2. 淋巴瘤型              | Lymphoma                                      |          | 高           | 侵袭性强，预后差，存活期<1年。                                                              | 淋巴瘤科/血液内科 |
+| 2.2.1.7.3. 慢性型                | Chronic                                       |          | 中           | 侵袭性中等，预后较好。                                                                     | 淋巴瘤科/血液内科 |
+| 2.2.1.7.4. 冒烟型                | Smouldering                                   |          | 低           | 侵袭性低，预后好。                                                                         | 淋巴瘤科/血液内科 |
+| 2.2.1.8. 肝脾伽马delta T细胞淋巴瘤 | Hepatosplenic Gamma-Delta T-cell Lymphoma     |          | 高           | 最常见伽马delta T细胞淋巴瘤，预后差。                                                      | 淋巴瘤科/血液内科 |
+| 2.2.1.9. 蕈样肉芽肿              | Mycosis Fungoides                             | MF       | 低           | 慢性皮肤T细胞淋巴瘤，进展缓慢，预后通常良好。                                              | 淋巴瘤科/血液内科 |
+| 2.2.1.10. 西扎里综合征           | Sézary Syndrome                               | SS       | 高           | 皮肤T细胞淋巴瘤白血病，侵袭性强，预后差。                                                  | 淋巴瘤科/血液内科 |
+| 2.2.1.11. 原发性皮肤CD30+T细胞增殖性疾病 | Primary Cutaneous CD30+ T-cell Lymphoproliferative Disorders | PCALCL   | 中           | 局限性，可自愈。                                                                           | 淋巴瘤科/血液内科 |
+| 2.2.1.12. 原发性皮肤间变性大细胞淋巴瘤 | Primary Cutaneous Anaplastic Large Cell Lymphoma | PCALCL   | 高           | 局部侵袭性，但预后较好。                                                                   | 淋巴瘤科/血液内科 |
+| 2.2.1.13. 原发性皮肤滤泡性淋巴瘤 | Primary Cutaneous Follicle Center Lymphoma    | PCFCL    | 低           | 惰性，预后好。                                                                             | 淋巴瘤科/血液内科 |
+| 2.2.1.14. 原发性皮肤弥漫大B细胞淋巴瘤（下肢型） | Primary Cutaneous Diffuse Large B-cell Lymphoma, Leg Type | PCDLBCL-LT | 高           | 生长缓慢，易复发。                                                                         | 淋巴瘤科/血液内科 |
+| **2.3. 特殊部位淋巴瘤**          | **Lymphomas of Specific Sites**               |          |              | 在特定器官或组织发生的淋巴瘤。                                                             | 淋巴瘤科/血液内科 |
+| 2.3.1. 原发性中枢神经系统淋巴瘤  | Primary Central Nervous System Lymphoma       | PCNSL    | 高           | 多为DLBCL类型，预后差。                                                                    | 淋巴瘤科/血液内科 |
+| 2.3.2. 移植后淋巴增殖性疾病      | Post-Transplant Lymphoproliferative Disorders | PTLD     |              | 与EBV相关，可发展迅速。                                                                    | 淋巴瘤科/血液内科 |
+| 2.3.2.1. 早期病变                | Early Lesions                                 |          | 中           | 免疫抑制剂调整可治愈。                                                                     | 淋巴瘤科/血液内科 |
+| 2.3.2.2. 多形性PTLD              | Polymorphic PTLD                              |          | 中           | 预后相应淋巴瘤类型治疗。                                                                   | 淋巴瘤科/血液内科 |
+| 2.3.2.3. 单形性PTLD              | Monomorphic PTLD                              |          | 高           | 恶性程度高，预后差。                                                                       | 淋巴瘤科/血液内科 |
+| **2.4. 前体B细胞淋巴瘤**         | **Precursor B-cell Lymphomas**                |          |              | 未成熟B细胞恶性增殖。                                                                      | 淋巴瘤科/血液内科 |
+| 2.4.1. B淋巴母细胞白血病/淋巴瘤  | B-cell Lymphoblastic Leukemia/Lymphoma        | B-LBL    | 高           | 儿童常见，侵袭性强，需强化疗，预后差。                                                     | 淋巴瘤科/血液内科 |
+| **2.5. 前体T细胞淋巴瘤**         | **Precursor T-cell Lymphomas**                |          |              | 未成熟T细胞恶性增殖。                                                                      | 淋巴瘤科/血液内科 |
+| 2.5.1. T淋巴母细胞白血病/淋巴瘤  | T-cell Lymphoblastic Leukemia/Lymphoma        | T-LBL    | 高           | 青年常见，侵袭性强，需强化疗，预后差。                                                     | 淋巴瘤科/血液内科 |
